@@ -9,13 +9,13 @@
 4. T-SNE - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20T-SNE%20for%203%20Components.png
 
 ### 3D Dimentionality Reduction
-1. PCA 3components - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20PCA%20with%203%20components.png
-2. PCA 4components - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20PCA%20with%204%20components.png
-3. PCA 5components - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20PCA%20with%205%20components.png
-4. LLE 3components - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20LLE%20for%203%20Components.png
-5. LLE 4components - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20LLE%20for%204%20Components.png
-6. LLE 5components - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20LLE%20for%205%20Components.png
-7. T-SNE 3components - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20T-SNE%20for%203%20Components.png
+1. ![PCA 3components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20PCA%20with%203%20components.png)
+2. ![PCA 4components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20PCA%20with%204%20components.png)
+3. ![PCA 5components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20PCA%20with%205%20components.png)
+4. ![LLE 3components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20LLE%20for%203%20Components.png)
+5. ![LLE 4components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20LLE%20for%204%20Components.png)
+6. ![LLE 5components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20LLE%20for%205%20Components.png)
+7. ![T-SNE 3components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20T-SNE%20for%203%20Components.png)
 
 ### Execution Time for each Technique, for both Tabular and Image dataset
 ![execution-time](https://user-images.githubusercontent.com/70603792/141213413-2f61054b-085e-436d-b2f1-372ce4af91d2.png)
