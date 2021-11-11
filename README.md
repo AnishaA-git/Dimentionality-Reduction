@@ -3,10 +3,10 @@
 ## Colab Link: https://colab.research.google.com/drive/1H3v_0Ivo7J1S_78jZAG8uCypXX8O98Fk#scrollTo=95Onv8IJEzaB
 
 ### 2D Dimentionality Reduction
-1. PCA - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20PCA%20with%204%20components.png
-2. SVD - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20SVD.png
-3. LLE - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20LLE%20for%204%20Components.png
-4. T-SNE - https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20T-SNE%20for%203%20Components.png
+1. [PCA](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20PCA%20with%204%20components.png)
+2. [SVD](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20SVD.png)
+3. [LLE](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20LLE%20for%204%20Components.png)
+4. [T-SNE](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/2D%20T-SNE%20for%203%20Components.png)
 
 ### 3D Dimentionality Reduction
 1. [PCA 3components](https://github.com/AnishaA-git/Dimentionality-Reduction/blob/master/2D%20and%203D%20images/3D%20PCA%20with%203%20components.png)
